@@ -54,3 +54,25 @@ body {
 h2 {
     font-weight: bold;
 }
+
+.span-procedimentos {
+    padding-top: 10px;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.bg-procedimento {
+    background: rgb(80,91,115);
+    background: linear-gradient(90deg, rgba(80,91,115,1) 40%, rgba(229,229,229,1) 40%);
+    text-align: center;
+}
+
+.procedimento {
+    background: #272D3A;
+    color: #fff;
+    padding: 25px;
+}
+
+h3 {
+    margin-bottom: 15px;
+}
